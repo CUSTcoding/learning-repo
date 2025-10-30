@@ -1,6 +1,9 @@
 # learning-repo
 
-# Aprendizado de Programação: Rust, Java, TypeScript e Python
+# Aprendizado de Programação: ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
 
 Este repositório é um guia prático para aprender **Rust, Java, TypeScript (TSC) e Python**, desde sintaxe básica até estruturas de dados, algoritmos e programação orientada a objetos (POO). Ele é ideal para iniciantes ou para quem deseja reforçar fundamentos de forma aplicada.
 
